@@ -12,4 +12,7 @@ public class Orange {
 		return qty;
 	}
 	
+	public Orange() {
+		// TODO Auto-generated constructor stub
+	}
 }
