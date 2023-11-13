@@ -4,6 +4,8 @@ public class Orange {
 	int price;
 	int qty;
 	
+	int sweet;
+	
 	public int getPrice() {
 		return price;
 	}
