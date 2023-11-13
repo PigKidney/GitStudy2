@@ -22,4 +22,8 @@ public class Banana {
 	public void setPrice(int price) {
 		this.price = price;
 	}
+	
+	public Banana() {
+		// TODO Auto-generated constructor stub
+	}
 }
