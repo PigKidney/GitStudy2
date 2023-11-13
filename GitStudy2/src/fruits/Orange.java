@@ -5,6 +5,7 @@ public class Orange {
 	int qty;
 	
 	int sweet;
+	int date;
 	
 	public int getPrice() {
 		return price;
