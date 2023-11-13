@@ -4,6 +4,9 @@ public class Banana {
 	int price;
 	String brand;
 	
+	int a;
+	int b;
+	
 	public String getBrand() {
 		return brand;
 	}
